@@ -8,32 +8,29 @@
 
 
 <div>
-
-    <ol>
+ <ol>
      <li>
             Film
             <ul>
              <li>Klaus</li>
              <li>Karayip Korsanları</li>
                 <li>Klaus</li>
-           
             </ul>
          <li>
              Dizi
              <ul>
                 
-                <a href="https://www.imdb.com/title/tt0460649/episodes"> 
+   <a href="https://www.imdb.com/title/tt0460649/episodes"> 
                 How ı met your mother
                 </a>
              </ul>
              <ul>Aşkı memnu</ul>
              <ul>Gözlerinin ardında</ul>
          </li>
-
-         <li>
+  <li>
          Kitap
 
-                <ul>
+ <ul>
                  <a href="https://www.goodreads.com/ps/book/show/27123400-k-k-prens">
                       Küçük prens
                  </a>
